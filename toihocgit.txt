@@ -1,13 +1,12 @@
-<<<<<<< .merge_file_NGukVz
+
 toi hoc git 
 dong 5
 dong 6
 dong 7
 dong 8
-=======
 toi hoc git hieu vua sưa
 dong 1
 dong 2
 dong 3
 dong 4
->>>>>>> .merge_file_wsAM7B
+
