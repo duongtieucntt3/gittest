@@ -1,1 +1,3 @@
 toi hoc git hieu vua sưa
+dong 1
+dong 2
