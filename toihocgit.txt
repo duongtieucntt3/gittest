@@ -1,3 +1,5 @@
 toi hoc git 
 dong 5
 dong 6
+dong 7
+dong 8
